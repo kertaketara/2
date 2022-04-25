@@ -2,8 +2,8 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 body {
-  background-color: black;
-  color: white;
+  background-color: #2d2424;
+  color: #bcb7a5;
   font-family: lucida;
   text-align: center;
   text-shadow: 1px 1px 1px black;  }
@@ -16,10 +16,7 @@ td {
 
 h4	{margin-top:2em;}
   
-a:link {  color: #FF4C4C;}
-a:visited {  color:  #FF4C4C;}
+a:link {  color: #c87972;}
+a:visited {  color:  #9fd681;}
 a:hover {  color:  #ffffff;}
 a:active {  color:  #ff0000;}
-
-
-
